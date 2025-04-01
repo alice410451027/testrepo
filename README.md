@@ -1,4 +1,4 @@
-# testrepo
-## Editing the file
-### A beginner in GitHub in Data Science
-#### Hello, World
+# The project shows the process of Exploratory Factor Analysis (EFA) of the Dark Tetrad Scale for adolscents in Taiwan.
+# The Dark Tetrad was proposed by Paulhus et al. (2021) and consists of four subscales representing malicious and aversive social traits.
+# Past studies have primarily focused on dark personality traits in adults. However, adolescents are also in a critical developmental stage where such traits may emerge and influence their social interactions. Understanding the structure and reliability of the Dark Tetrad Scale in this population can provide valuable insights into the development of these traits and their potential impact on adolescent behavior.
+#### Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2021). Screening for Dark Personalities: The Short Dark Tetrad (SD4). European Journal of Psychological Assessment, 37(3), 208–222. https://doi.org/10.1027/1015-5759/a000602 
